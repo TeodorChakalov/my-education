@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Благотворителна кампания", "Благотворителна кампания\Благотворителна кампания.csproj", "{A09F819C-32BA-4630-A463-0655DD33CA81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Световен рекорд по плуване", "Световен рекорд по плуване\Световен рекорд по плуване.csproj", "{8686F450-6E1A-4D00-95C9-35824A8E2365}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Плодови коктейли", "Плодови коктейли\Плодови коктейли.csproj", "{426F86CF-004A-45C8-BF71-01E18BD4216A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Парична награда", "Парична награда\Парична награда.csproj", "{8A7FEE03-1EC1-4F76-807E-B4931A8FDE6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Триъгълник", "Триъгълник\Триъгълник.csproj", "{8793FBCD-F9A7-4423-B1AA-EC6333DB094F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Сбор или Произведение", "Сбор или Произведение\Сбор или Произведение.csproj", "{F7D9D9BF-4501-4DED-8CE4-7C92DAE110BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A09F819C-32BA-4630-A463-0655DD33CA81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A09F819C-32BA-4630-A463-0655DD33CA81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A09F819C-32BA-4630-A463-0655DD33CA81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A09F819C-32BA-4630-A463-0655DD33CA81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8686F450-6E1A-4D00-95C9-35824A8E2365}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8686F450-6E1A-4D00-95C9-35824A8E2365}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8686F450-6E1A-4D00-95C9-35824A8E2365}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8686F450-6E1A-4D00-95C9-35824A8E2365}.Release|Any CPU.Build.0 = Release|Any CPU
+		{426F86CF-004A-45C8-BF71-01E18BD4216A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{426F86CF-004A-45C8-BF71-01E18BD4216A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{426F86CF-004A-45C8-BF71-01E18BD4216A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{426F86CF-004A-45C8-BF71-01E18BD4216A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A7FEE03-1EC1-4F76-807E-B4931A8FDE6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A7FEE03-1EC1-4F76-807E-B4931A8FDE6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A7FEE03-1EC1-4F76-807E-B4931A8FDE6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A7FEE03-1EC1-4F76-807E-B4931A8FDE6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8793FBCD-F9A7-4423-B1AA-EC6333DB094F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8793FBCD-F9A7-4423-B1AA-EC6333DB094F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8793FBCD-F9A7-4423-B1AA-EC6333DB094F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8793FBCD-F9A7-4423-B1AA-EC6333DB094F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7D9D9BF-4501-4DED-8CE4-7C92DAE110BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7D9D9BF-4501-4DED-8CE4-7C92DAE110BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7D9D9BF-4501-4DED-8CE4-7C92DAE110BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7D9D9BF-4501-4DED-8CE4-7C92DAE110BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
