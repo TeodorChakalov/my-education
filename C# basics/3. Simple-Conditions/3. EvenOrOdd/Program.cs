@@ -14,11 +14,9 @@ namespace EvenOrOdd
             if (number % 2 == 0)
             {
                 Console.WriteLine("Even");
+                return;
             }
-            else
-            {
-                Console.WriteLine("Odd");
-            }
+            Console.WriteLine("Odd");
         }
     }
 }
