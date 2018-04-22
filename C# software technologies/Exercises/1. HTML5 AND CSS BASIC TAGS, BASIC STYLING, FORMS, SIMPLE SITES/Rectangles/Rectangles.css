@@ -1,0 +1,18 @@
+.outside{
+    border: #0000ff 1px dotted;
+    border-radius: 3px;
+    padding: 5px;
+}
+
+.middle{
+    border: #ff0000 1px dashed;
+    border-radius: 3px;
+    padding: 5px;
+}
+.inner{
+    border: #008000 1px solid;
+    border-radius: 3px;
+    text-align: center;
+    font-size: large;
+    padding: 5px;
+}

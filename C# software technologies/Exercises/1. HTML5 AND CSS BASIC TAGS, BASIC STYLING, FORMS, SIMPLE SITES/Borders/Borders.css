@@ -1,0 +1,35 @@
+.red-border{
+    border: #ff0000 1px solid;
+    border-radius: 3px;
+    background-color: #808080;
+    text-align: center;
+    font-size: large;
+    width: 200px;
+}
+.red-text{
+    color: #ff0000;
+}
+
+.green-border{
+    border: #008000 1px solid;
+    border-radius: 3px;
+    background-color: #808080;
+    text-align: center;
+    font-size: large;
+    width: 200px;
+}
+.green-text{
+    color: #008000;
+}
+
+.blue-border{
+    border: #0000ff 1px solid;
+    border-radius: 3px;
+    background-color: #808080;
+    text-align: center;
+    font-size: large;
+    width: 200px;
+}
+.blue-text{
+    color: #0000ff;
+}
